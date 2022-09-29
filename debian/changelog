@@ -1,0 +1,11 @@
+golang-gopkg-jcmturner-dnsutils.v1 (1.0.1-2) unstable; urgency=medium
+
+  * Reupload as source-only
+
+ -- Stephen Gelman <ssgelm@debian.org>  Tue, 25 Feb 2020 23:12:12 -0600
+
+golang-gopkg-jcmturner-dnsutils.v1 (1.0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #951811)
+
+ -- Stephen Gelman <ssgelm@debian.org>  Fri, 21 Feb 2020 17:28:16 -0600
